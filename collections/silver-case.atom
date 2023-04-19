@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://timzee-demo.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://timzee-demo.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://timzee-demo.myshopify.com/collections/silver-case.atom"/>
+  <title>Timzee</title>
+  <updated>2019-07-04T04:37:04-04:00</updated>
+  <author>
+    <name>Timzee</name>
+  </author>
+  <entry>
+    <id>https://timzee-demo.myshopify.com/products/3922668159058</id>
+    <published>2019-07-04T04:37:04-04:00</published>
+    <updated>2019-07-04T04:37:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://timzee-demo.myshopify.com/products/platinum-numeral"/>
+    <title>Platinum Numeral</title>
+    <s:type>Automatic</s:type>
+    <s:vendor>Fostelo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0075/1832/2770/products/Watch21.png?v=1562229540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fostelo<br>
+        <strong>Type: </strong>Automatic<br>
+        <strong>Price: </strong>
+            200.00 - 400.00
+            <a href="https://timzee-demo.myshopify.com/products/platinum-numeral">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $500</s:tag>
+    <s:tag>740mm</s:tag>
+    <s:tag>Automatic</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>Fostelo</s:tag>
+    <s:tag>red</s:tag>
+    <s:variant>
+      <id>https://timzee-demo.myshopify.com/products/3922668159058</id>
+      <title>740mm / red / cotton</title>
+      <s:price currency="USD">200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timzee-demo.myshopify.com/products/3922668159058</id>
+      <title>750mm / black / leather</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timzee-demo.myshopify.com/products/3922668159058</id>
+      <title>800mm / pink / silk</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://timzee-demo.myshopify.com/products/3922666618962</id>
+    <published>2019-07-04T04:12:26-04:00</published>
+    <updated>2019-07-04T04:12:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://timzee-demo.myshopify.com/products/platinum-classic"/>
+    <title>Platinum Classic</title>
+    <s:type>Analog</s:type>
+    <s:vendor>Baggit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0075/1832/2770/products/Watch20.png?v=1562229380"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baggit<br>
+        <strong>Type: </strong>Analog<br>
+        <strong>Price: </strong>
+            450.00 - 500.00
+            <a href="https://timzee-demo.myshopify.com/products/platinum-classic">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$400 - $500</s:tag>
+    <s:tag>25cm</s:tag>
+    <s:tag>Analog</s:tag>
+    <s:tag>Baggit</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>steel</s:tag>
+    <s:variant>
+      <id>https://timzee-demo.myshopify.com/products/3922666618962</id>
+      <title>25cm / pink / steel</title>
+      <s:price currency="USD">450.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timzee-demo.myshopify.com/products/3922666618962</id>
+      <title>22cm / tan / metal</title>
+      <s:price currency="USD">450.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timzee-demo.myshopify.com/products/3922666618962</id>
+      <title>24cm / black / iron</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://timzee-demo.myshopify.com/products/3922631000146</id>
+    <published>2019-07-04T04:06:55-04:00</published>
+    <updated>2019-07-04T04:06:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://timzee-demo.myshopify.com/products/golden-automatic"/>
+    <title>Golden Automatic</title>
+    <s:type>Digital</s:type>
+    <s:vendor>Fostelo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0075/1832/2770/products/Watch18.png?v=1562227748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fostelo<br>
+        <strong>Type: </strong>Digital<br>
+        <strong>Price: </strong>
+            200.00 - 500.00
+            <a href="https://timzee-demo.myshopify.com/products/golden-automatic">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $500</s:tag>
+    <s:tag>23cm</s:tag>
+    <s:tag>Digital</s:tag>
+    <s:tag>Fostelo</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:variant>
+      <id>https://timzee-demo.myshopify.com/products/3922631000146</id>
+      <title>23cm / pink / plastic</title>
+      <s:price currency="USD">200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timzee-demo.myshopify.com/products/3922631000146</id>
+      <title>24cm / chocoalte / leather</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timzee-demo.myshopify.com/products/3922631000146</id>
+      <title>25cm / blue / silk</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://timzee-demo.myshopify.com/products/2533825445970</id>
+    <published>2019-05-24T02:00:54-04:00</published>
+    <updated>2019-05-24T02:00:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://timzee-demo.myshopify.com/products/analog-automatic"/>
+    <title>Analog Automatic</title>
+    <s:type>Analog</s:type>
+    <s:vendor>Fostelo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0075/1832/2770/products/Watch4.png?v=1562666305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fostelo<br>
+        <strong>Type: </strong>Analog<br>
+        <strong>Price: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $400</s:tag>
+    <s:tag>720mm</s:tag>
+    <s:tag>Analog</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Fostelo</s:tag>
+    <s:tag>Steel</s:tag>
+    <s:variant>
+      <id>https://timzee-demo.myshopify.com/products/2533825445970</id>
+      <title>720mm / Black / Steel</title>
+      <s:price currency="USD">350.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timzee-demo.myshopify.com/products/2533825445970</id>
+      <title>750mm / Silver / plastic</title>
+      <s:price currency="USD">350.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timzee-demo.myshopify.com/products/2533825445970</id>
+      <title>800mm / Gold / metel</title>
+      <s:price currency="USD">350.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timzee-demo.myshopify.com/products/2533825445970</id>
+      <title>740mm / black / plastic</title>
+      <s:price currency="USD">350.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timzee-demo.myshopify.com/products/2533825445970</id>
+      <title>750mm / blue / class</title>
+      <s:price currency="USD">350.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://timzee-demo.myshopify.com/products/2533824954450</id>
+    <published>2019-05-24T02:00:30-04:00</published>
+    <updated>2019-05-24T02:00:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://timzee-demo.myshopify.com/products/stainless-automatic"/>
+    <title>Stainless Automatic</title>
+    <s:type>Automatic</s:type>
+    <s:vendor>Baggit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0075/1832/2770/products/Watch9.png?v=1562222905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baggit<br>
+        <strong>Type: </strong>Automatic<br>
+        <strong>Price: </strong>
+            200.00 - 500.00
+            <a href="https://timzee-demo.myshopify.com/products/stainless-automatic">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $500</s:tag>
+    <s:tag>23cm</s:tag>
+    <s:tag>Automatic</s:tag>
+    <s:tag>Baggit</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://timzee-demo.myshopify.com/products/2533824954450</id>
+      <title>23cm / white / plastic</title>
+      <s:price currency="USD">200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timzee-demo.myshopify.com/products/2533824954450</id>
+      <title>22cm / black / steel</title>
+      <s:price currency="USD">300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timzee-demo.myshopify.com/products/2533824954450</id>
+      <title>25cm / red / iron</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://timzee-demo.myshopify.com/products/2533824888914</id>
+    <published>2019-05-24T02:00:28-04:00</published>
+    <updated>2019-05-24T02:00:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://timzee-demo.myshopify.com/products/gold-case-automatic"/>
+    <title>Gold Case Automatic</title>
+    <s:type>Automatic</s:type>
+    <s:vendor>Baggit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0075/1832/2770/products/Watch14.png?v=1562223091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baggit<br>
+        <strong>Type: </strong>Automatic<br>
+        <strong>Price: </strong>
+            250.00 - 300.00
+            <a href="https://timzee-demo.myshopify.com/products/gold-case-automatic">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>22cm</s:tag>
+    <s:tag>Automatic</s:tag>
+    <s:tag>Baggit</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:variant>
+      <id>https://timzee-demo.myshopify.com/products/2533824888914</id>
+      <title>22cm / blue / plastic</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timzee-demo.myshopify.com/products/2533824888914</id>
+      <title>25cm / red / steel</title>
+      <s:price currency="USD">300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://timzee-demo.myshopify.com/products/2533824856146</id>
+    <published>2019-05-24T02:00:27-04:00</published>
+    <updated>2019-05-24T02:00:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://timzee-demo.myshopify.com/products/stainless-steel"/>
+    <title>Stainless Steel</title>
+    <s:type>Automatic</s:type>
+    <s:vendor>Baggit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0075/1832/2770/products/Watch3.png?v=1562222510"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baggit<br>
+        <strong>Type: </strong>Automatic<br>
+        <strong>Price: </strong>
+            200.00 - 500.00
+            <a href="https://timzee-demo.myshopify.com/products/stainless-steel">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $500</s:tag>
+    <s:tag>22cm</s:tag>
+    <s:tag>Automatic</s:tag>
+    <s:tag>Baggit</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:variant>
+      <id>https://timzee-demo.myshopify.com/products/2533824856146</id>
+      <title>22cm / Gray / plastic</title>
+      <s:price currency="USD">200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timzee-demo.myshopify.com/products/2533824856146</id>
+      <title>25cm / blue / steel</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

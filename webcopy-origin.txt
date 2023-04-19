@@ -1,0 +1,1340 @@
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/articles/blog10.jpg?v=1562317129
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\articles\blog10.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/articles/blog10_480x480@2x.jpg?v=1562317129
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\articles\blog10_480x480@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/articles/blog12.jpg?v=1562316997
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\articles\blog12.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/articles/blog12_480x480@2x.jpg?v=1562316997
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\articles\blog12_480x480@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/articles/blog1_1f7103dd-ac60-446d-8a42-0269927e9583_480x480@2x.jpg?v=1562304496
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\articles\blog1_1f7103dd-ac60-446d-8a42-0269927e9583_480x480@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/articles/blog2_44c7d240-c5a9-4e6c-bd84-b657696742a1_480x480@2x.jpg?v=1562315779
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\articles\blog2_44c7d240-c5a9-4e6c-bd84-b657696742a1_480x480@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/articles/blog3_134e44e8-6810-4d30-8108-9c0dc4513f39_480x480@2x.jpg?v=1562308161
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\articles\blog3_134e44e8-6810-4d30-8108-9c0dc4513f39_480x480@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/articles/blog4_5c3742c1-97ef-47e6-ae86-740d7f088972_480x480@2x.jpg?v=1562316025
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\articles\blog4_5c3742c1-97ef-47e6-ae86-740d7f088972_480x480@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/articles/blog5.jpg?v=1562316681
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\articles\blog5.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/articles/blog5_480x480@2x.jpg?v=1562316681
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\articles\blog5_480x480@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/articles/blog6_480x480@2x.jpg?v=1562315618
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\articles\blog6_480x480@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/articles/blog7.jpg?v=1562317901
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\articles\blog7.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/articles/blog7_480x480@2x.jpg?v=1562317901
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\articles\blog7_480x480@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/articles/blog8.jpg?v=1562317604
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\articles\blog8.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/articles/blog8_480x480@2x.jpg?v=1562317604
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\articles\blog8_480x480@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/articles/blog9.jpg?v=1562317292
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\articles\blog9.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/articles/blog9_480x480@2x.jpg?v=1562317292
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\articles\blog9_480x480@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/collections/image2_600x.jpg?v=1562582002
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\collections\image2_600x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/collections/product11_89f12e28-f7d7-4fa0-83df-f9c8115caba8_600x.jpg?v=1562582028
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\collections\product11_89f12e28-f7d7-4fa0-83df-f9c8115caba8_600x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/collections/product15_600x.jpg?v=1562581990
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\collections\product15_600x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/collections/product20_600x.jpg?v=1562582016
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\collections\product20_600x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/App-logo-1_small_small_d09bc29f-61cf-4e34-a235-3170614f870b.png?v=1614294999
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\App-logo-1_small_small_d09bc29f-61cf-4e34-a235-3170614f870b.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/App-logo-2_small_small_af049517-ec09-4b95-b698-c33aa2853cb9.png?v=1614294999
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\App-logo-2_small_small_af049517-ec09-4b95-b698-c33aa2853cb9.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/App-logo-3_small_small_small_small_2dc3e028-9587-4fb9-bc52-43b728749587.png?v=1614294999
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\App-logo-3_small_small_small_small_2dc3e028-9587-4fb9-bc52-43b728749587.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/banner_286c6b34-88cb-465a-a2e8-2a5faf8295df_480x480@2x.jpg?v=1614295013
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\banner_286c6b34-88cb-465a-a2e8-2a5faf8295df_480x480@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/Bg1full_2040x.jpg?v=1614300918
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\Bg1full_2040x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/client1_6e709373-d4d6-4fee-905c-f47825f2b2a6.png?v=1614300918
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\client1_6e709373-d4d6-4fee-905c-f47825f2b2a6.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/client2_f5e7538d-5a02-406d-9b6f-8fabc6e087f4.png?v=1614300918
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\client2_f5e7538d-5a02-406d-9b6f-8fabc6e087f4.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/client3_50109f47-cc2b-438c-80d1-d5a6d59c4064.png?v=1614300918
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\client3_50109f47-cc2b-438c-80d1-d5a6d59c4064.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/client4_ff7c56f6-25ab-4616-904a-e1c7b2812066.png?v=1614300918
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\client4_ff7c56f6-25ab-4616-904a-e1c7b2812066.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/client5_a0da5652-9304-43c6-847c-92778aae48b7.png?v=1614300918
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\client5_a0da5652-9304-43c6-847c-92778aae48b7.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/client6_8e93c68a-f79a-49ef-9b8f-21569ff89cf6.png?v=1614300918
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\client6_8e93c68a-f79a-49ef-9b8f-21569ff89cf6.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/client7_27d86bb8-fadc-4c77-aced-4ad2321aa0fc.png?v=1614300918
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\client7_27d86bb8-fadc-4c77-aced-4ad2321aa0fc.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/client8_305b165c-b454-45d4-917c-39374f3f84cb.png?v=1614300918
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\client8_305b165c-b454-45d4-917c-39374f3f84cb.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/favicon_1_16x16.png?v=1645518005
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\favicon_1_16x16.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/footer-img_052c2e02-57e9-473b-a7a4-2668c5104fbd.jpg?v=1614300923
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\footer-img_052c2e02-57e9-473b-a7a4-2668c5104fbd.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/Gallery2_480x480@2x.jpg?v=1614300904
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\Gallery2_480x480@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/Gallery3_480x480@2x.jpg?v=1614300904
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\Gallery3_480x480@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/Gallery4_480x480@2x.jpg?v=1614300904
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\Gallery4_480x480@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/Gallery5.jpg?v=1614300904
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\Gallery5.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/Gallery5_480x480@2x.jpg?v=1614300904
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\Gallery5_480x480@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/Gallery6_480x480@2x.jpg?v=1614300904
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\Gallery6_480x480@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/image1_480x480@2x.jpg?v=1614301009
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\image1_480x480@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/image2_480x480@2x.jpg?v=1614301009
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\image2_480x480@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/logo_1.png?v=1645517921
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\logo_1.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/MegaMenu_image1_480x480@2x.jpg?v=1614301013
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\MegaMenu_image1_480x480@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/Mobile-Sliders2_768x940.jpg?v=1614300900
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\Mobile-Sliders2_768x940.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/Mobile-Sliders3_768x940.jpg?v=1614300900
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\Mobile-Sliders3_768x940.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/Mobile-Sliders_768x940.jpg?v=1614300900
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\Mobile-Sliders_768x940.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/preloader_1.gif?v=1645774445
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\preloader_1.gif
+Content Type: image/gif
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/promo2_c5444c07-50e6-4452-90ed-99ca49a106fc_480x480@2x.png?v=1614300803
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\promo2_c5444c07-50e6-4452-90ed-99ca49a106fc_480x480@2x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/promo3_e10c824c-b077-4e67-be09-c11067066cf5_480x480@2x.png?v=1614300803
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\promo3_e10c824c-b077-4e67-be09-c11067066cf5_480x480@2x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/slider__1.jpg?v=1614295638
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\slider__1.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/slider__2.jpg?v=1614295640
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\slider__2.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/slider__3_2000x_1.jpg?v=1645525352
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\slider__3_2000x_1.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/team-4_480x480@2x.jpg?v=1614301010
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\team-4_480x480@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/team1_480x480@2x.jpg?v=1614301010
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\team1_480x480@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/team2_480x480@2x.jpg?v=1614301010
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\team2_480x480@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/team3_480x480@2x.jpg?v=1614301010
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\team3_480x480@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/files/Untitled-1_480x480@2x.jpg?v=1614294897
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\files\Untitled-1_480x480@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/products/watch1.png?v=1562222447
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\products\watch1.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/products/Watch10.png?v=1562224314
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\products\Watch10.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/products/Watch11_ee5e1559-77e0-4263-8837-da6a2f86265f.png?v=1562223154
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\products\Watch11_ee5e1559-77e0-4263-8837-da6a2f86265f.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/products/Watch12.png?v=1562223032
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\products\Watch12.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/products/Watch12@2x.png?v=1562223032
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\products\Watch12@2x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/products/Watch13.png?v=1562223683
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\products\Watch13.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/products/Watch13@2x.png?v=1562223683
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\products\Watch13@2x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/products/Watch14.png?v=1562223091
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\products\Watch14.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/products/Watch14_b2e50cb0-e772-4668-8cc5-dc3c54adce87.png?v=1680777571
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\products\Watch14_b2e50cb0-e772-4668-8cc5-dc3c54adce87.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/products/Watch15.png?v=1562224550
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\products\Watch15.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/products/Watch16.png?v=1562227257
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\products\Watch16.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/products/Watch17.png?v=1562227557
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\products\Watch17.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/products/Watch18.png?v=1562227748
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\products\Watch18.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/products/Watch19.png?v=1562227912
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\products\Watch19.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/products/Watch20.png?v=1562229380
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\products\Watch20.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/products/Watch21.png?v=1562229540
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\products\Watch21.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/products/Watch22.png?v=1562229815
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\products\Watch22.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/products/Watch23.png?v=1562229974
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\products\Watch23.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/products/Watch24.png?v=1562230315
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\products\Watch24.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/products/watch2_02f3b74c-51b8-49b6-b632-67a2abc70b38.png?v=1562222484
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\products\watch2_02f3b74c-51b8-49b6-b632-67a2abc70b38.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/products/Watch3.png?v=1562222510
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\products\Watch3.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/products/Watch4.png?v=1562666305
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\products\Watch4.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/products/Watch4@2x.png?v=1562666305
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\products\Watch4@2x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/products/Watch5_0f753270-74d5-471c-b694-5f55d31a0f0e.png?v=1562222675
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\products\Watch5_0f753270-74d5-471c-b694-5f55d31a0f0e.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/products/Watch5_0f753270-74d5-471c-b694-5f55d31a0f0e@2x.png?v=1562222675
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\products\Watch5_0f753270-74d5-471c-b694-5f55d31a0f0e@2x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/products/Watch6_f019d036-ecf7-4c54-b050-f0929dbc4ad1.png?v=1562222722
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\products\Watch6_f019d036-ecf7-4c54-b050-f0929dbc4ad1.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/products/Watch6_f019d036-ecf7-4c54-b050-f0929dbc4ad1_460x.png?v=1562222722
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\products\Watch6_f019d036-ecf7-4c54-b050-f0929dbc4ad1_460x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/products/Watch7_cb15c914-d10f-4cd5-869a-beb6798eeb36.png?v=1562222786
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\products\Watch7_cb15c914-d10f-4cd5-869a-beb6798eeb36.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/products/Watch8_993307d5-1a77-4ff3-a516-0a56fabea9bc.png?v=1562222832
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\products\Watch8_993307d5-1a77-4ff3-a516-0a56fabea9bc.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/products/Watch9.png?v=1562222905
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\products\Watch9.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/ajax-cart.js?v=159932347430209325301645517032
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\ajax-cart.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/animation.css?v=47637949021474771261645516979
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\animation.css
+Content Type: text/css
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/cart-filled.svg
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\cart-filled.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/cart-stroke.svg
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\cart-stroke.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/compare.svg
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\compare.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/compare2.svg
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\compare2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/compare_list.js?v=102383793440838065331645516982
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\compare_list.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/dt-custom.css?v=162419579965730665191646811265
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\dt-custom.css
+Content Type: text/css
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/dt-framework.css?v=32752046654030800061662798634
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\dt-framework.css
+Content Type: text/css
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/dt-plugins.js?v=68173182670242102861645516984
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\dt-plugins.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/dt-theme.js?v=154916026811135122831680702265
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\dt-theme.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/dT_bundle.js?v=76915261480420889091645516985
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\dT_bundle.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/dT_bundle_base.js?v=178559308254279089191645516986
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\dT_bundle_base.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/dt_collection_filter.js?v=31659649249883491231645516986
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\dt_collection_filter.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/dT_main.js?v=66641411319853898211645516986
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\dT_main.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/dT_main_app.js?v=130268043992772609421647582298
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\dT_main_app.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/dT_shipping-cart.js?v=86530881418980104451645516991
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\dT_shipping-cart.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/empty-cart.png?v=124674504766911058681645516991
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\empty-cart.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/font-all.min.css?v=176820762346757211011645517032
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\font-all.min.css
+Content Type: text/css
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/fontawesome-webfont.eot
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/fontawesome-webfont.svg
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/fontawesome-webfont.ttf
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\fontawesome-webfont.ttf
+Content Type: font/woff2
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/fontawesome-webfont.woff
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\fontawesome-webfont.woff
+Content Type: font/woff2
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/fontawesome-webfont.woff2
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/handlebars.min.js?v=169876042351953648671645516995
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\handlebars.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/instafeed.js?v=81142330342592026311645516996
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\instafeed.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/jquery-3.5.1.min.js?v=177851068496422246591645516996
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\jquery-3.5.1.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/lazysizes.js?v=180904610732387730431645516997
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\lazysizes.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/link.svg
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\link.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/loading.gif
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\loading-1.gif
+Content Type: image/gif
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/loading.gif?v=22777500013480165001645516998
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\loading.gif
+Content Type: image/gif
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/quick-view.svg
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\quick-view.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/select2.min.css?v=158476376379246470021662802727
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\select2.min.css
+Content Type: text/css
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/select2.min.js?v=146226383636201590221645517001
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\select2.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/slick.css?v=102834294787817466131645517002
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\slick.css
+Content Type: text/css
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/slick.min.js?v=78403228708673780251645517003
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\slick.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/soldout.png?v=33369629434189652741645517005
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\soldout.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/swiper-bundle.min.css?v=5850897086907936371645517006
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/wishlist-stroke.svg
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\wishlist-stroke.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/wishlist.svg
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\wishlist.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/wish_list.js?v=10136686554284193961645517009
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\wish_list.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/assets/wow.js?v=106390324212083424781645517009
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\assets\wow.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/compiled_assets/scripts.js?71747
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\compiled_assets\scripts.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/s/files/1/0075/1832/2770/t/9/compiled_assets/styles.css?71747
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\s\files\1\0075\1832\2770\t\9\compiled_assets\styles.css
+Content Type: text/css
+
+Uri: https://cdn.shopify.com/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c.gif
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\shopifycloud\shopify\assets\no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c.gif
+Content Type: image/gif
+
+Uri: https://cdn.shopify.com/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\shopifycloud\shopify\assets\storefront\features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/shopifycloud/shopify/assets/storefront/load_feature-e154599399e6b8b29dcb1102cc76eb199fa33a09af4fa78d15e8f8544ee64fcd.js
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\shopifycloud\shopify\assets\storefront\load_feature-e154599399e6b8b29dcb1102cc76eb199fa33a09af4fa78d15e8f8544ee64fcd.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/shopifycloud/shopify/assets/themes_support/api-747e56582ccad351759656054dd0ef08711942243e0796b2828903bf31358269.js
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\shopifycloud\shopify\assets\themes_support\api-747e56582ccad351759656054dd0ef08711942243e0796b2828903bf31358269.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/shopifycloud/shopify/assets/themes_support/customer_area-4beccea87758d91106a581ba89341d9b51842f6da79209258c8297239e950343.js
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\shopifycloud\shopify\assets\themes_support\customer_area-4beccea87758d91106a581ba89341d9b51842f6da79209258c8297239e950343.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/shopifycloud/shopify/assets/themes_support/shopify_common-8ea6ac3faf357236a97f5de749df4da6e8436ca107bc3a4ee805cbf08bc47392.js
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\shopifycloud\shopify\assets\themes_support\shopify_common-8ea6ac3faf357236a97f5de749df4da6e8436ca107bc3a4ee805cbf08bc47392.js
+Content Type: text/javascript
+
+Uri: https://fonts.shopifycdn.com/montserrat/montserrat_n5.18a018b6c83e89030c5d70a6d4c02c969f228500.woff?&hmac=1f425240c6882b6b59bf030962238f189bee59b0451390685d40a5a2eb939f4b
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\montserrat\montserrat_n5.18a018b6c83e89030c5d70a6d4c02c969f228500.woff
+Content Type: font/woff2
+
+Uri: https://fonts.shopifycdn.com/montserrat/montserrat_n5.e72d00d31ae5399d260a80ec70322c62c1819762.woff2?&hmac=a51355a3cbe15aebc1c1554760a284fd97876d256948d4151d76b08cd7a65c73
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\montserrat\montserrat_n5.e72d00d31ae5399d260a80ec70322c62c1819762.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.shopifycdn.com/nunito_sans/nunitosans_i4.2c3733ccdf579e6e89e929a950e6a93484fdf6b4.woff?&hmac=eb5067d9ace3ed9bafc42d21f2a7fdea7b071445b49065533702d8af29bcbfc6
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\nunito_sans\nunitosans_i4.2c3733ccdf579e6e89e929a950e6a93484fdf6b4.woff
+Content Type: font/woff2
+
+Uri: https://fonts.shopifycdn.com/nunito_sans/nunitosans_i4.e88a2041a6cfbeacffb96db0e8efdfaaa38ddc5c.woff2?&hmac=552da398f9cf9351b323856ad2adeebabcff36bb13e25739abd3442d7eba95d4
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\nunito_sans\nunitosans_i4.e88a2041a6cfbeacffb96db0e8efdfaaa38ddc5c.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.shopifycdn.com/nunito_sans/nunitosans_i7.83b70272d04b71e88f25fc6834dc9b88e4ba4e95.woff?&hmac=fc183d54dd6522b1546f8886edb89b59dca99697ab3a52106fd21557832de67a
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\nunito_sans\nunitosans_i7.83b70272d04b71e88f25fc6834dc9b88e4ba4e95.woff
+Content Type: font/woff2
+
+Uri: https://fonts.shopifycdn.com/nunito_sans/nunitosans_i7.975ea93f521412ef99ca1e2e434d8ca6a5cf77e7.woff2?&hmac=b3b0b3630d1452928c31a0873830418462a86ab2113a4fe49dfb2299fcfd7d86
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\nunito_sans\nunitosans_i7.975ea93f521412ef99ca1e2e434d8ca6a5cf77e7.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.shopifycdn.com/nunito_sans/nunitosans_n4.2b61d9dcf54d8ac8282cfd1ebb6964c79a7efcd1.woff2?&hmac=8cc42143eae778b5a4489df2cc2cac3253120cc1e3acdd0342ed736216541bf9
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\nunito_sans\nunitosans_n4.2b61d9dcf54d8ac8282cfd1ebb6964c79a7efcd1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.shopifycdn.com/nunito_sans/nunitosans_n4.420cbf408f643f8ff8fd948b99c10dade8b6af79.woff?&hmac=0a96c8ac3d522763f19edefabd69663b968f08a29ebaeb7407601cc91a24defc
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\nunito_sans\nunitosans_n4.420cbf408f643f8ff8fd948b99c10dade8b6af79.woff
+Content Type: font/woff2
+
+Uri: https://fonts.shopifycdn.com/nunito_sans/nunitosans_n7.2bcf0f11aa6af91c784a857ef004bcca8c2d324d.woff?&hmac=19e78cd6194bda2d82da36db1c30d78a4999f9945a4f1e70ce478106915512bb
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\nunito_sans\nunitosans_n7.2bcf0f11aa6af91c784a857ef004bcca8c2d324d.woff
+Content Type: font/woff2
+
+Uri: https://fonts.shopifycdn.com/nunito_sans/nunitosans_n7.5bd4fb9346d13afb61b3d78f8a1e9f31b128b3d9.woff2?&hmac=a80925e46dab83118087258f70361e59a7ead90cc8d247079c9f1894f9139704
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\nunito_sans\nunitosans_n7.5bd4fb9346d13afb61b3d78f8a1e9f31b128b3d9.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.shopifycdn.com/work_sans/worksans_n4.29e3afeb38a0ba35e784cf169a40e8beaf814daa.woff2?&hmac=dedb1427c885abaf4ac174a375e9627c0878ba4cf0824fe037c5b89a9d9cc5ec
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\work_sans\worksans_n4.29e3afeb38a0ba35e784cf169a40e8beaf814daa.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.shopifycdn.com/work_sans/worksans_n4.e7c533c4afbed28070f6ac45dbcfe6f37840c0a8.woff?&hmac=b13e5ddf035674558e1b3d61bb7a3a8e7ea688739f742e54efe1c7ebb84224ba
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\work_sans\worksans_n4.e7c533c4afbed28070f6ac45dbcfe6f37840c0a8.woff
+Content Type: font/woff2
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftimzee-demo.myshopify.com%252Fblogs%252Fnews%252F3-favorite-dial-rolex-watches&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=ru_RU&_rdr
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftimzee-demo.myshopify.com%252Fblogs%252Fnews%252Fblog-3&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=ru_RU&_rdr
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\login-8.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftimzee-demo.myshopify.com%252Fblogs%252Fnews%252Fcasual-wears-are-waterproof&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=ru_RU&_rdr
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\login-6.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftimzee-demo.myshopify.com%252Fblogs%252Fnews%252Fgentlemen-always-prefer-timezee&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=ru_RU&_rdr
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftimzee-demo.myshopify.com%252Fblogs%252Fnews%252Fgentlemen-prefer-timezee-watch&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=ru_RU&_rdr
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\login-10.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftimzee-demo.myshopify.com%252Fblogs%252Fnews%252Fluxury-watches-for-women&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=ru_RU&_rdr
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftimzee-demo.myshopify.com%252Fblogs%252Fnews%252Fmeasure-watch-quality-using-weight&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=ru_RU&_rdr
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\login-5.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftimzee-demo.myshopify.com%252Fblogs%252Fnews%252Fthe-authorized-service-center&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=ru_RU&_rdr
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\login-7.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftimzee-demo.myshopify.com%252Fblogs%252Fnews%252Fthe-finest-present-you-can-give&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=ru_RU&_rdr
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftimzee-demo.myshopify.com%252Fblogs%252Fnews%252Fthe-perfect-christmas-gift&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=ru_RU&_rdr
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\login-9.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftimzee-demo.myshopify.com%252Fblogs%252Fnews%252Fthe-story-behind-a-super-watch&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=ru_RU&_rdr
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://timzee-demo.myshopify.com/
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\index.htm
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/account/login
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\account\login.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/account/register
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\account\register.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/blogs/news
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\blogs\news.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/blogs/news.atom
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\blogs\news.atom
+Content Type: application/atom+xml
+
+Uri: https://timzee-demo.myshopify.com/blogs/news/3-favorite-dial-rolex-watches
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\blogs\news\3-favorite-dial-rolex-watches.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/blogs/news/blog-3
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\blogs\news\blog-3.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/blogs/news/casual-wears-are-waterproof
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\blogs\news\casual-wears-are-waterproof.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/blogs/news/gentlemen-always-prefer-timezee
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\blogs\news\gentlemen-always-prefer-timezee.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/blogs/news/gentlemen-prefer-timezee-watch
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\blogs\news\gentlemen-prefer-timezee-watch.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/blogs/news/luxury-watches-for-women
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\blogs\news\luxury-watches-for-women.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/blogs/news/measure-watch-quality-using-weight
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\blogs\news\measure-watch-quality-using-weight.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/blogs/news/tagged/altanus
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\blogs\news\tagged\altanus.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/blogs/news/tagged/altanus.atom
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\blogs\news\tagged\altanus.atom
+Content Type: application/atom+xml
+
+Uri: https://timzee-demo.myshopify.com/blogs/news/tagged/angelus
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\blogs\news\tagged\angelus.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/blogs/news/tagged/angelus.atom
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\blogs\news\tagged\angelus.atom
+Content Type: application/atom+xml
+
+Uri: https://timzee-demo.myshopify.com/blogs/news/tagged/aristo
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\blogs\news\tagged\aristo.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/blogs/news/tagged/aristo.atom
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\blogs\news\tagged\aristo.atom
+Content Type: application/atom+xml
+
+Uri: https://timzee-demo.myshopify.com/blogs/news/tagged/bezel
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\blogs\news\tagged\bezel.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/blogs/news/tagged/bezel.atom
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\blogs\news\tagged\bezel.atom
+Content Type: application/atom+xml
+
+Uri: https://timzee-demo.myshopify.com/blogs/news/tagged/minute-hand
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\blogs\news\tagged\minute-hand.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/blogs/news/tagged/minute-hand.atom
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\blogs\news\tagged\minute-hand.atom
+Content Type: application/atom+xml
+
+Uri: https://timzee-demo.myshopify.com/blogs/news/tagged/quartz
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\blogs\news\tagged\quartz.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/blogs/news/tagged/quartz.atom
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\blogs\news\tagged\quartz.atom
+Content Type: application/atom+xml
+
+Uri: https://timzee-demo.myshopify.com/blogs/news/the-authorized-service-center
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\blogs\news\the-authorized-service-center.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/blogs/news/the-finest-present-you-can-give
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\blogs\news\the-finest-present-you-can-give.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/blogs/news/the-perfect-christmas-gift
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\blogs\news\the-perfect-christmas-gift.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/blogs/news/the-story-behind-a-super-watch
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\blogs\news\the-story-behind-a-super-watch.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/blogs/news?page=1
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\blogs\news-2.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/blogs/news?page=2
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\blogs\news-1.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/cart
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\cart.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/all
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\all.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/all.atom
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\all.atom
+Content Type: application/atom+xml
+
+Uri: https://timzee-demo.myshopify.com/collections/all?page=1
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\all-5.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/all?page=1&sort_by=
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\all-9.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/all?page=2
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\all-1.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/all?page=2&sort_by=
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\all-6.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/all?page=3
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\all-2.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/all?page=3&sort_by=
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\all-7.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/all?page=4
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\all-3.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/all?page=4&sort_by=
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\all-8.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/all?sort_by=
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\all-4.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/analog
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\analog.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/analog.atom
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\analog.atom
+Content Type: application/atom+xml
+
+Uri: https://timzee-demo.myshopify.com/collections/analog.oembed
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\analog.oembed
+Content Type: application/json+oembed
+
+Uri: https://timzee-demo.myshopify.com/collections/analog.oembed?page=2
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\analog-1.oembed
+Content Type: application/json+oembed
+
+Uri: https://timzee-demo.myshopify.com/collections/analog/products/analog-automatic
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\analog\products\analog-automatic.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/analog/products/analog-numeral
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\analog\products\analog-numeral.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/analog/products/classical-numeral
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\analog\products\classical-numeral.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/analog/products/dial-numeral
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\analog\products\dial-numeral.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/analog/products/golden-automatic
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\analog\products\golden-automatic.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/analog/products/golden-classical
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\analog\products\golden-classical.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/analog/products/platinum-numeral
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\analog\products\platinum-numeral.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/analog/products/red-black-numeral
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\analog\products\red-black-numeral.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/analog?page=1
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\analog-3.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/analog?page=1&sort_by=
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\analog-5.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/analog?page=2
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\analog-1.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/analog?page=2&sort_by=
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\analog-4.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/analog?sort_by=
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\analog-2.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/digital
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\digital.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/digital.atom
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\digital.atom
+Content Type: application/atom+xml
+
+Uri: https://timzee-demo.myshopify.com/collections/digital.oembed
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\digital.oembed
+Content Type: application/json+oembed
+
+Uri: https://timzee-demo.myshopify.com/collections/digital.oembed?page=2
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\digital-1.oembed
+Content Type: application/json+oembed
+
+Uri: https://timzee-demo.myshopify.com/collections/digital/products/classic-roman
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\digital\products\classic-roman.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/digital/products/golden-analog-watch
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\digital\products\golden-analog-watch.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/digital/products/golden-automatic
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\digital\products\golden-automatic.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/digital/products/golden-classical
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\digital\products\golden-classical.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/digital/products/platinum-numeral
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\digital\products\platinum-numeral.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/digital/products/red-black-numeral
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\digital\products\red-black-numeral.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/digital/products/white-stainless-steel
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\digital\products\white-stainless-steel.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/digital?page=1
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\digital-3.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/digital?page=1&sort_by=
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\digital-5.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/digital?page=2
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\digital-1.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/digital?page=2&sort_by=
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\digital-4.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/digital?sort_by=
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\digital-2.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/gold-case
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\gold-case.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/gold-case.atom
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\gold-case.atom
+Content Type: application/atom+xml
+
+Uri: https://timzee-demo.myshopify.com/collections/gold-case.oembed
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\gold-case.oembed
+Content Type: application/json+oembed
+
+Uri: https://timzee-demo.myshopify.com/collections/gold-case.oembed?page=2
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\gold-case-1.oembed
+Content Type: application/json+oembed
+
+Uri: https://timzee-demo.myshopify.com/collections/gold-case/products/analog-numeral
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\gold-case\products\analog-numeral.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/gold-case/products/black-numeral-dial
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\gold-case\products\black-numeral-dial.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/gold-case/products/golden-automatic
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\gold-case\products\golden-automatic.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/gold-case/products/golden-classical
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\gold-case\products\golden-classical.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/gold-case/products/numeral-semi
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\gold-case\products\numeral-semi.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/gold-case/products/roman-semi
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\gold-case\products\roman-semi.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/gold-case/products/stainless-steel
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\gold-case\products\stainless-steel.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/gold-case?page=1
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\gold-case-3.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/gold-case?page=1&sort_by=
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\gold-case-5.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/gold-case?page=2
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\gold-case-1.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/gold-case?page=2&sort_by=
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\gold-case-4.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/gold-case?sort_by=
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\gold-case-2.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/silver-case
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\silver-case.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/silver-case.atom
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\silver-case.atom
+Content Type: application/atom+xml
+
+Uri: https://timzee-demo.myshopify.com/collections/silver-case.oembed
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\silver-case.oembed
+Content Type: application/json+oembed
+
+Uri: https://timzee-demo.myshopify.com/collections/silver-case.oembed?page=2
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\silver-case-1.oembed
+Content Type: application/json+oembed
+
+Uri: https://timzee-demo.myshopify.com/collections/silver-case/products/analog-automatic
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\silver-case\products\analog-automatic.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/silver-case/products/gold-case-automatic
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\silver-case\products\gold-case-automatic.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/silver-case/products/golden-automatic
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\silver-case\products\golden-automatic.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/silver-case/products/platinum-classic
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\silver-case\products\platinum-classic.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/silver-case/products/platinum-numeral
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\silver-case\products\platinum-numeral.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/silver-case/products/stainless-automatic
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\silver-case\products\stainless-automatic.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/silver-case/products/stainless-steel
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\silver-case\products\stainless-steel.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/silver-case?page=1
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\silver-case-3.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/silver-case?page=1&sort_by=
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\silver-case-5.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/silver-case?page=2
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\silver-case-1.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/silver-case?page=2&sort_by=
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\silver-case-4.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/silver-case?sort_by=
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\silver-case-2.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/vendors?page=1&q=Baggit
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\vendors-9.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/vendors?page=1&q=Fostelo
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\vendors-8.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/vendors?page=2&q=Baggit
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\vendors-6.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/vendors?page=2&q=Fostelo
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\vendors-5.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/vendors?q=Baggit
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\vendors-1.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/vendors?q=Biltwell
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\vendors-4.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/vendors?q=Ex of Sale Tax
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\vendors-3.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/vendors?q=ex+of+sale+tax
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\vendors-7.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/vendors?q=Fostelo
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\vendors.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/collections/vendors?q=Timzee
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\collections\vendors-2.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/pages/about-us
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\pages\about-us.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/pages/compare
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\pages\compare.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/pages/contact-us
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\pages\contact-us.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/pages/faqs
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\pages\faqs.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/pages/wishlist
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\pages\wishlist.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/products/analog-automatic
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\analog-automatic.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/products/analog-automatic.oembed
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\analog-automatic.oembed
+Content Type: application/json+oembed
+
+Uri: https://timzee-demo.myshopify.com/products/analog-for-girls
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\analog-for-girls.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/products/analog-for-girls.oembed
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\analog-for-girls.oembed
+Content Type: application/json+oembed
+
+Uri: https://timzee-demo.myshopify.com/products/analog-numeral
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\analog-numeral.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/products/analog-numeral.oembed
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\analog-numeral.oembed
+Content Type: application/json+oembed
+
+Uri: https://timzee-demo.myshopify.com/products/analog-roman
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\analog-roman.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/products/analog-roman.oembed
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\analog-roman.oembed
+Content Type: application/json+oembed
+
+Uri: https://timzee-demo.myshopify.com/products/black-numeral-dial
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\black-numeral-dial.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/products/black-numeral-dial.oembed
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\black-numeral-dial.oembed
+Content Type: application/json+oembed
+
+Uri: https://timzee-demo.myshopify.com/products/classic-roman
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\classic-roman.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/products/classic-roman.oembed
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\classic-roman.oembed
+Content Type: application/json+oembed
+
+Uri: https://timzee-demo.myshopify.com/products/classical-numeral
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\classical-numeral.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/products/classical-numeral.oembed
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\classical-numeral.oembed
+Content Type: application/json+oembed
+
+Uri: https://timzee-demo.myshopify.com/products/dial-numeral
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\dial-numeral.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/products/dial-numeral.oembed
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\dial-numeral.oembed
+Content Type: application/json+oembed
+
+Uri: https://timzee-demo.myshopify.com/products/gold-case-automatic
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\gold-case-automatic.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/products/gold-case-automatic.oembed
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\gold-case-automatic.oembed
+Content Type: application/json+oembed
+
+Uri: https://timzee-demo.myshopify.com/products/golden-analog-watch
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\golden-analog-watch.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/products/golden-analog-watch.oembed
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\golden-analog-watch.oembed
+Content Type: application/json+oembed
+
+Uri: https://timzee-demo.myshopify.com/products/golden-automatic
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\golden-automatic.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/products/golden-automatic.oembed
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\golden-automatic.oembed
+Content Type: application/json+oembed
+
+Uri: https://timzee-demo.myshopify.com/products/golden-black
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\golden-black.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/products/golden-black.oembed
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\golden-black.oembed
+Content Type: application/json+oembed
+
+Uri: https://timzee-demo.myshopify.com/products/golden-classical
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\golden-classical.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/products/golden-classical.oembed
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\golden-classical.oembed
+Content Type: application/json+oembed
+
+Uri: https://timzee-demo.myshopify.com/products/leather-automatic
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\leather-automatic.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/products/leather-automatic.oembed
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\leather-automatic.oembed
+Content Type: application/json+oembed
+
+Uri: https://timzee-demo.myshopify.com/products/numeral-semi
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\numeral-semi.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/products/numeral-semi.oembed
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\numeral-semi.oembed
+Content Type: application/json+oembed
+
+Uri: https://timzee-demo.myshopify.com/products/platinum-analog
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\platinum-analog.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/products/platinum-analog.oembed
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\platinum-analog.oembed
+Content Type: application/json+oembed
+
+Uri: https://timzee-demo.myshopify.com/products/platinum-classic
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\platinum-classic.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/products/platinum-classic.oembed
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\platinum-classic.oembed
+Content Type: application/json+oembed
+
+Uri: https://timzee-demo.myshopify.com/products/platinum-numeral
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\platinum-numeral.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/products/platinum-numeral.oembed
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\platinum-numeral.oembed
+Content Type: application/json+oembed
+
+Uri: https://timzee-demo.myshopify.com/products/red-black-numeral
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\red-black-numeral.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/products/red-black-numeral.oembed
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\red-black-numeral.oembed
+Content Type: application/json+oembed
+
+Uri: https://timzee-demo.myshopify.com/products/roman-semi
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\roman-semi.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/products/roman-semi.oembed
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\roman-semi.oembed
+Content Type: application/json+oembed
+
+Uri: https://timzee-demo.myshopify.com/products/round-dial-automatic
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\round-dial-automatic.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/products/round-dial-automatic.oembed
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\round-dial-automatic.oembed
+Content Type: application/json+oembed
+
+Uri: https://timzee-demo.myshopify.com/products/stainless-automatic
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\stainless-automatic.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/products/stainless-automatic.oembed
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\stainless-automatic.oembed
+Content Type: application/json+oembed
+
+Uri: https://timzee-demo.myshopify.com/products/stainless-steel
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\stainless-steel.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/products/stainless-steel.oembed
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\stainless-steel.oembed
+Content Type: application/json+oembed
+
+Uri: https://timzee-demo.myshopify.com/products/white-stainless-steel
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\white-stainless-steel.html
+Content Type: text/html
+
+Uri: https://timzee-demo.myshopify.com/products/white-stainless-steel.oembed
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\products\white-stainless-steel.oembed
+Content Type: application/json+oembed
+
+Uri: https://timzee-demo.myshopify.com/search
+File Name: C:\Downloaded Web Sites\timzee-demo.myshopify.com\search.html
+Content Type: text/html
+
